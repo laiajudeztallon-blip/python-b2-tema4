@@ -41,6 +41,7 @@ from datalib import load_csv, mean, median
 from pathlib import Path
 
 
+
 # Para probar el código, descomenta las siguientes líneas
 # if __name__ == "__main__":
 #     filepath = Path(__file__).parent / "data/grades.csv"
